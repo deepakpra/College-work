@@ -4,7 +4,7 @@ using namespace std;
 class Company
 {
 protected:
-    string productList[5] = {"Shop", "Shampoo", "Headfone", "Toothpaste", "Milk"};
+    string productList[5] = {"Shop", "Shampoo", "Headphone", "Toothpaste", "Milk"};
     int quantity[5] = {3, 4, 5, 2, 2};
 
 public:
